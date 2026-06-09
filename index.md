@@ -3,33 +3,51 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Rebuilt Bad Idea Bot -- Logbook
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+By the end of this season, I have finally discovered the true meaning of **Rebuilt**: 
+***rebuild your entire robot.*** 
 
-More specifically, the created site:
+What if I designed a robot made entirely out of bad ideas? Every janky fix, every over-engineered solution, and every "so crazy it just might work" concept all rolled into one machine.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+Presenting my summer project:
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+* **R**idiculous
+* **E**ngineering
+* **B**uffoonery
+* **U**tilizing
+* **I**diotic
+* **L**anes of
+* **T**echnology
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+Since I am just one person (and definitely not made of money), this will be a **CAD-only project**.
 
-To get started with creating a site, simply:
+**The Design Goals:**
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+* **Maximum Ridiculousness:** If it makes mentors disappointed, it belongs on the robot.
+* **Deceptively Functional:** It needs to look like it *could* actually work on a field.
+* **The Constraints:** It must be FRC legal... *except* for the part cost / availability limit, and maybe other minor violations.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+I’ll be hosting a build blog and posting updates on this project website.
 
-----
+**So, what terrible ideas should I add first?**
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+Either add to the thread on [Chief Delphi](https://www.chiefdelphi.com/t/rebuilt-bad-idea-summer-robot-cad-only/521751), or [submit a GitHub issue](https://github.com/el-8248/rebuilt-bad.idea.bot/issues/new) on this repository with the "Idea" label.
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+#### 2026/6/8 23:44:44 PDT
+
+# [CAD Link](https://cad.onshape.com/documents/6183ad144dd769a4084ed060/)
+# 001 - Setup
+1. Create Document Structure
+
+* Assembly - Main
+    * Assembly - Shooter
+    * Assembly - Intake
+    * Assembly - Indexer
+    * Assembly - Chassis
+    * Assembly - Climber
+    * Assembly - Bumpers
+
+I might go to bed now
+#### 2026/6/9 00:00:00 PDT
+---
