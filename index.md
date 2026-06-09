@@ -51,3 +51,31 @@ Either add to the thread on [Chief Delphi](https://www.chiefdelphi.com/t/rebuilt
 I might go to bed now
 #### 2026/6/9 00:00:00 PDT
 ---
+# 002 - Ideation
+So after looking at people's ideas, I have decided on the basic structure of the robot for some components.
+
+Shooter
+-
+Dual Turret
+
+either Differential or Coaxial
+
+Why? Because Aura.
+
+(and I hate my life)
+
+Drive
+-
+Tank Treads
+
+Because it's funny
+
+and I will be violating the 4 motor limit, but that's okay.
+
+Last Crazy Thing
+-
+Electronics Mounted On/In the Hopper
+
+![Demo of Where I'm Putting Electronics](elecdemo.png)
+
+#### 2026/6/9 09:21:42 PDT
