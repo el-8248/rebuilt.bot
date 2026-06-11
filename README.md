@@ -2,7 +2,7 @@
 title: Home
 layout: home
 ---
-
+# project ended
 # Rebuilt Bad Idea Bot -- Logbook
 
 By the end of this season, I have finally discovered the true meaning of **Rebuilt**: 
